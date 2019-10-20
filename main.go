@@ -2,7 +2,6 @@ package main
 
 import (
 	"os"
-
 	"github.com/danpopSD/clirescue/trackerapi"
 	"github.com/codegangsta/cli"
 )
